@@ -5,7 +5,7 @@
 @ Date: 2019-12-13 16:19:23
 @ Email: qinbaoshuai@cloudwalk.cn
 @ LastEditors: qinbaoshuai
-@ LastEditTime: 2019-12-13 16:22:30
+@ LastEditTime: 2019-12-13 17:43:11
 @ Description: setup.py
 """
 import setuptools
@@ -15,7 +15,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="qzails-pyxsqbs",
-    version="0.0.1",
+    version="0.0.2",
     author="qinbaoshuai",
     author_email="pyxsqbs@163.com",
     description="A machine learning engineering chemical tools library.",
